@@ -6,3 +6,8 @@ postmodern
 concreteness.csv
 batch.py
 batch.ipynb 
+post911/
+corpus/
+book.py
+.ipynb_checkpoints/
+.DS_Store
